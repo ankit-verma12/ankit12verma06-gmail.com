@@ -1,0 +1,4 @@
+2026-03-28 12:52:29,682 - ERROR - Error: APIError(code=-2014): API-key format invalid.
+2026-03-28 12:54:10,639 - ERROR - Error: APIError(code=-2014): API-key format invalid.
+2026-03-28 12:54:18,352 - INFO - Order request: Namespace(symbol='BTCUSDT', side='BUY', type='MARKET', quantity=0.005, price=None)
+2026-03-28 12:54:18,353 - INFO - Order response: {'orderId': 13001510599, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJe8e5ed81c870fba4d923c7', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.005', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1774682658792}
